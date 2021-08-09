@@ -5,79 +5,99 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2021-06-28T17:31:50.579Z",
-    "end": "2021-06-28T17:31:51.166Z",
-    "duration": 587
+    "start": "2021-08-09T17:43:44.248Z",
+    "end": "2021-08-09T17:43:45.892Z",
+    "duration": 1644
   },
   "tests": [
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 2,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 2,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "ends with an exclamation point!",
       "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
-      "duration": 0,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains \"WELCOME TO FLATBOOK, \"",
       "fullTitle": "index.js excitedWelcomeMessage contains \"WELCOME TO FLATBOOK, \"",
-      "duration": 0,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains the first initial of the name stored in the 'currentUser' variable",
       "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 3,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js shortGreeting ends with an exclamation point",
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     }
   ],
@@ -87,71 +107,91 @@
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 2,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 2,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "ends with an exclamation point!",
       "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
-      "duration": 0,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains \"WELCOME TO FLATBOOK, \"",
       "fullTitle": "index.js excitedWelcomeMessage contains \"WELCOME TO FLATBOOK, \"",
-      "duration": 0,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "contains the first initial of the name stored in the 'currentUser' variable",
       "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
-      "duration": 1,
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 3,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     },
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js shortGreeting ends with an exclamation point",
+      "file": "/home/gem1995/code/labs/Mod1/phase-1-review-strings-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
+      "speed": "fast",
       "err": {}
     }
   ]
